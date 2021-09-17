@@ -22,4 +22,4 @@ Skills: HTML / CSS / JS
 
 ![Profile views](https://gpvc.arturio.dev/soothingkoala)  
 
-! ![[GitHub metrics](https://metrics.lecoq.io/soothingkoala)  
+![[GitHub metrics](https://metrics.lecoq.io/soothingkoala)  
