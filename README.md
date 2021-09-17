@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Soothing Koala.
+# Hi there 👋, I'm Soothing Koala.
 <br>
 
 #### I'm a student who's learning programming.
