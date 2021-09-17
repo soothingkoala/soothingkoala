@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Soothing Koala.
+## Hi there 👋, I'm Soothing Koala.
+<br>
+
 #### I'm a student who's learning programming.
 ![I'm a student who's learning programming.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
@@ -19,6 +21,8 @@ Skills: HTML / CSS / JS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=soothingkoala&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soothingkoala)  
+
+<br>
 
 ![GitHub metrics](https://metrics.lecoq.io/soothingkoala)  
 
