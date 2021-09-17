@@ -20,6 +20,6 @@ Skills: HTML / CSS / JS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soothingkoala)  
 
-![Profile views](https://gpvc.arturio.dev/soothingkoala)  
-
 ![GitHub metrics](https://metrics.lecoq.io/soothingkoala)  
+
+![Profile views](https://gpvc.arturio.dev/soothingkoala)  
